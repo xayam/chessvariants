@@ -1,0 +1,10 @@
+.github/
+.git/
+venv/
+.idea/
+.run/
+__pycache__/
+build/
+dist/
+*.zip
+*.exe
